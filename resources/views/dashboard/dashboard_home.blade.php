@@ -75,14 +75,14 @@
                                                 <path d="M20 11a8.1 8.1 0 0 0 -15.5 -2m-.5 -4v4h4" />
                                                 <path d="M4 13a8.1 8.1 0 0 0 15.5 2m.5 4v-4h-4" />
                                             </svg>
-                                        </span>Refresh</button>
+                                        </span>Refresh Data</button>
                                 </div>
                             </div>
                             <div class="table-responsive-md">
                                 <table id="ilo_table" class="table card-table table-vcenter datatable">
                                     <thead>
                                         <tr>
-                                            <th style="width:5%">No</th>
+                                            <th style="width:5%">No.</th>
                                             <th style="width:20%">Server</th>
                                             <th style="width:20%">IP Address</th>
                                             <th style="width:20%">Power State</th>
